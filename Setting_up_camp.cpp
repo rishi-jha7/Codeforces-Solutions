@@ -1,4 +1,4 @@
-// Proble link: https://codeforces.com/contest/1945/problem/A
+// Problem link: https://codeforces.com/contest/1945/problem/A
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -23,5 +23,5 @@ int main()
     else
     cout<<a+x+1<<endl;
     }
-    }
+}
 }
